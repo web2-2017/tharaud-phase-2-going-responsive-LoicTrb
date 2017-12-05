@@ -1,0 +1,91 @@
+
+
+
+
+date {color:#3eaf8e; font-size: 16px;}
+
+
+/* *********************** NOUVEAUTES ************************* */
+
+div.nouveautes {
+  padding: 35px 0;
+  background: url("../img/trace.png") no-repeat right top;
+}
+
+.nouveautes h2 {margin-top: 50px;}
+
+.new hr {width: 30px; height: 5px; background: #0081af;}
+
+p.blue {color:#0081af; font-size: 25px;}
+
+p.green {color:#3eaf8e; font-size: 20px;}
+
+
+
+p.txt {margin: 60px 0;}
+
+
+
+
+
+/* *********************** PROCHAINES DATES ************************* */
+
+div.dates {
+  padding: 35px 0;
+}
+.dates a {color:#0081af;}
+
+.dates h2 {margin-bottom: 50px;}
+
+span.btn-border {border-top: 3px solid #a1a1a1;padding: 18px 0;}
+span.btn-border:hover {color:#0081af;border-bottom: 3px solid #0081af; transition: 0.1s;}
+p.btn {margin-top: 50px; font-size: 15px; font-weight: 500;}
+p.btn a:hover {color:#0081af;}
+p.btn a {color:#000}
+
+
+
+
+footer {padding-top: 30px;}
+
+
+
+
+
+.slider {
+  height: 450px;
+  background: url("../img/bio.png") no-repeat center;
+}
+
+
+.blog {
+  padding: 35px 0;
+  background: url("../img/blog.jpg") center;
+}
+
+.border-green hr {
+  border: 3px solid #3eaf8e;
+  width: 17px;
+  border-radius: 5px;
+}
+
+.border-green {
+  border: 5px solid #3eaf8e;
+  padding: 20px;
+}
+
+
+
+.img-sidebar, .download {
+  margin-top: 40px;
+}
+
+.txt-download {
+  margin: 0 40px;
+}
+
+.download {
+  background: url("../img/bg-down.png") right no-repeat;
+  background-size: cover;
+  background-position: 100px -50px;
+}
